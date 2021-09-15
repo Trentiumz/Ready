@@ -1,10 +1,9 @@
-package ics3.Single;
+package ics3.Single.days;
 /* Daniel Ye
 * September 14, 2021
 * Ms. Basaraba
 * This program prints a string and acts as the testing class for the in class lesson */
 
-import java.awt.*; // * = import all classes from the package
 import hsa.Console;
 
 public class SepFourteenOne // program heading & gives the program its name public can be accessed by other programs
