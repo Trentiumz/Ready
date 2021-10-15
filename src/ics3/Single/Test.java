@@ -4,6 +4,6 @@ import hsa.Console;
 
 public class Test {
     public static void main(String[] args){
-        Console c = new Console();
+        double a = 3;
     }
 }
